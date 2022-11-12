@@ -1,3 +1,3 @@
 # Social Tree.
 
-## Clique <a href="https://only-zover.github.io/social_tree/">aqui</a> para visualizar.
+## Modelo de uma árvore social.<br>Clique <a href="https://only-zover.github.io/social_tree/">aqui</a> para visualizar.
