@@ -55,6 +55,12 @@ body {
     margin-top: 16px;
 
     text-decoration: none;
+
+    transition: .3s;
+}
+
+.insta:hover {
+    text-decoration: underline;
 }
 
 .button {
@@ -67,10 +73,13 @@ body {
     width: 326px;
     height: 49px;
     margin: 6px;
+
+    transition: 250ms;
 }
 
 .button:hover {
-    background-color:    red;
+    background-color:var(--purple);
+    color: var(--body-bg-color);
     cursor: pointer;
 }
 
